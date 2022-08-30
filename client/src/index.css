@@ -1,0 +1,36 @@
+.section-with-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.ui.inverted.menu {
+  background-color: navy;
+  height: 100vh;
+}
+
+.ui.grid.segment.raised {
+  margin: 0 5px 5px;
+}
+
+.content {
+  display: flex;
+}
+
+.supply__title {
+  margin: 0;
+}
+
+.tables {
+  width: 85%;
+  margin: 0 auto;
+  padding: 0 5px;
+}
+
+.buttons {
+  min-height: max-content;
+}
+
+.leftMenu {
+  width: 14%;
+}
